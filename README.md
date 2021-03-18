@@ -14,7 +14,7 @@ O projeto **alura-git** foi criado com base em um curso da alura, ele é uma lis
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+## 🖥️ Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguites tecnologias:
 
